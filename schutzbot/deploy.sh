@@ -5,7 +5,7 @@ DNF_REPO_BASEURL=http://osbuild-composer-repos.s3.amazonaws.com
 
 # The osbuild-composer commit to run reverse-dependency test against.
 # Currently: ci: remove EXTRA_REPO_PATH_SEGMENT
-OSBUILD_COMPOSER_COMMIT=cca5c9fd4002a02ae509416a6cbc3e60e697e6dd
+OSBUILD_COMPOSER_COMMIT=d36ea7fa8712d29dbc25264e0d99d7db66299719
 
 # Get OS details.
 source /etc/os-release
